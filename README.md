@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m @Santhiyac27
 
-<!--
-**Santhiyac27/Santhiyac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently learning how to use **GitHub** and **AI**.
+- 🌱 I’m interested in [Web Development / Data Science / Gaming].
+- 📫 How to reach me: [Your Email or Social Link].
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** HTML, CSS, Python (learning!)
+- **Tools:** VS Code, GitHub, Gemini
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
